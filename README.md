@@ -1,2 +1,2 @@
-Angular Playground. Here we are playing around! Dont get it serious!
+Angular Playground. Here we are playing around! Dont get it seriously!
 

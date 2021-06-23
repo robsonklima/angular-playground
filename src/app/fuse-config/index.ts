@@ -1,7 +1,6 @@
 import { FuseConfig } from '@fuse/types';
 
 export const fuseConfig: FuseConfig = {
-    // Alterar Tema
     colorTheme      : 'theme-blue-gray-dark',
     customScrollbars: true,
     layout          : {
